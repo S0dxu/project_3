@@ -1,0 +1,57 @@
+[
+    {
+      "name": "VIP",
+      "img": "vip (1).png",
+      "description": "Diventa VIP...",
+      "price": "€5,00",
+      "link": "vip.html",
+      "img2": "vantaggiVIP.png",
+      "buy": "Oltre a supportare il server riceverai i seguenti vantaggi:",
+      "information": "Per ulteriori informazioni non esitare ad aprire ticket!"
+    },
+    {
+      "name": "MVP",
+      "img": "MVP.png",
+      "description": "Diventa MVP...",
+      "price": "€10,00",
+      "link": "mvp.html",
+      "buy": "Oltre a supportare il server riceverai i seguenti vantaggi:",
+      "information": "Per ulteriori informazioni non esitare ad aprire ticket!"
+    },
+    {
+      "name": "MVP+",
+      "img": "mvp+.png",
+      "description": "Diventa MVP...",
+      "price": "€15,00",
+      "link": "mvp+.html",
+      "buy": "Oltre a supportare il server riceverai i seguenti vantaggi:",
+      "information": "Per ulteriori informazioni non esitare ad aprire ticket!"
+    },
+    {
+      "name": "IMPERIAL",
+      "img": "imperial (1).png",
+      "description": "Diventa IMPERIAL...",
+      "price": "€25,00",
+      "link": "imperial.html",
+      "buy": "Oltre a supportare il server riceverai i seguenti vantaggi:",
+      "information": "Per ulteriori informazioni non esitare ad aprire ticket!"
+    },
+    {
+        "name": "IMMORTAL",
+        "img": "immortal (1).png",
+        "description": "Diventa IMMORTAL...",
+        "price": "€30,00",
+        "link": "immortal.html",
+        "buy": "Oltre a supportare il server riceverai i seguenti vantaggi:",
+        "information": "Per ulteriori informazioni non esitare ad aprire ticket!"
+      },
+    {
+      "name": "NAPOLETANO",
+      "img": "napoletano.png",
+      "description": "Diventa NAPOLETANO...",
+      "price": "€40,00",
+      "link": "napoletano.html",
+      "buy": "Oltre a supportare il server riceverai i seguenti vantaggi:",
+      "information": "Per ulteriori informazioni non esitare ad aprire ticket!"
+    }
+  ]

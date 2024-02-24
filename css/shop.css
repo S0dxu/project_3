@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+* {
+    background-color: #dadada00;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Outfit', sans-serif;
+    overflow-x: hidden;
+}
+
+.product {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 1400px;
+    display: flex;
+    padding: 50px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.container img {
+    width: 60%;
+    margin-bottom: 50px;
+}
+
+.container .desc p {
+    margin-top: 10px;
+}
+
+.container .desc h2 {
+    margin-top: 20px;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.container button {
+    margin-top: 30px;
+    width: 500px;
+    height: 50px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border-radius: 15px;
+    cursor: pointer;
+    outline: none;
+    transition: .3s ease;
+}
+
+.container button:hover {
+    color: white;
+}
+
+.container button h1 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.container .cart-btn {
+    margin-top: 20px;
+    width: 450px;
+    height: 50px;
+    background: linear-gradient(to right, #feb47b, #f1f091);
+    border-radius: 15px;
+    cursor: pointer;
+    outline: none;
+    transition: .3s ease;
+}
+
+.container a {
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    margin-top: 40px;
+    transition: .3s ease;
+}
+
+.container a:hover {
+    color: rgba(0, 0, 0);
+}
